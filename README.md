@@ -73,7 +73,7 @@
 <h4>23. Excalidraw</h4>
 
 <h4>24. Eslint</h4>
-<p>Make sure install note.js in your computer<br>npm init<br>npm init @eslint/config <br> <b>Select: <b>To check syntax, find problems <br><b>Select: <b>JavaScript modules (import/export)<br><b>Select: <b> None of these<br> <b>Select: <b>Browser<br> <b>Select: <b>Use popular style guide<br><b>Select: <b>Airbnb<br><b>Select: <b>JSON<br><b>Select: <b>NPM</p>
+<p>Make sure install note.js in your computer<br>npm init<br>npm init @eslint/config <br> <b>Select: </b>b>To check syntax, find problems <br><b>Select: </b>b>JavaScript modules (import/export)<br><b>Select: </b>b> None of these<br> <b>Select: </b>b>Browser<br> <b>Select: </b>b>Use popular style guide<br><b>Select: </b>b>Airbnb<br><b>Select: </b>b>JSON<br><b>Select: </b>b>NPM</p>
 <p>Edit .eslintrc.json<br><b>rules: </b><pre>
     {
     "env": {
