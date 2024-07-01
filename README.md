@@ -59,7 +59,7 @@
 <p>File and Folder icon show</p>
 
 <h4>22. better comments</h4>
-<p>
+<pre>
 /**
  * * Lorem ipsum dolor sit amet consectetur adipisicing elit.
  * ! Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -68,7 +68,7 @@
  * @param myParam Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 */
-</p>
+</pre>
 
 <h4>23. Excalidraw</h4>
 
