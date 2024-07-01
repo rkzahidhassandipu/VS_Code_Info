@@ -1,10 +1,7 @@
-<h2>4. Open in browser</h2>
+#<h2>4. Open in browser</h2>
 
 <h2>Auto Rename Tages </h2>
 <p>HTML Open and Close Tag Rename</p>
-
-<h2>Color Highlight </h2>
-<p></p>
 
 <h2>Color Highlight </h2>
 <p>CSS Color Show Code Background Color </p>
