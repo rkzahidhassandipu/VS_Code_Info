@@ -11,7 +11,7 @@
 <h4>5. Auto-Save on Window</h4>
 <p>Code auto save </p>
 
-<h4>14. live Preview>
+<h4>14. live Preview</h4>
 <p>This Extension shows Preview in VS Code</p>
 
 <h4>15. VsCode Pets</h4>
