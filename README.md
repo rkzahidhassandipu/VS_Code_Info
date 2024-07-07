@@ -217,17 +217,24 @@
 
 
 <h2>(Git extensions)</h2>
+<!-- <h2>(Git extensions)</h2> -->
 
 <h4>57. Git graph</h4>
 
 
-
+<h2>(Bootstrap extensions)</h2>
 
 <h4>6. Bootstrap 4/5</h4>
 <p>Bootstrap Classs name suggest</p>
 
+<h2>(SASS extensions)</h2>
+<!-- <h2>(SASS extensions)</h2> -->
+
 <h4>9. Live sass Compiler</h4>
 <p>SASS Watch to CSS Convert</p>
+
+
+<h2>(Tailwind extensions)</h2>
 
 <h4>13. Tailwind CSS</h4>
 <p>Tailwind CSS Class Name suggest</p>
